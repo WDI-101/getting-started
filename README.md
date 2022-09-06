@@ -16,7 +16,7 @@ Alternatively, you can press `[CMD][SPACE]` to bring up MacOS's Spotlight Search
 
 #### For Windows 
 
-Cmder: https://cmder.net/
+Cmder: https://cmder.app/
 
 ## Step 2: Install VSCode
 
