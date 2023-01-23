@@ -39,10 +39,10 @@ Over time, your GitHub account will grow into a public portfolio of your coding 
 
 ## Step 5: Turn in this assignment on Populi
 
-To turn in this assignment, take a single screenshot that shows all of the following:
+To turn in this assignment, take a screenshot(s) that shows all of the following:
 * VSCode running
 * Slack running
 * A webpage displaying your GitHub account
 * Running Terminal(Mac)/Cmder (Windows)
 
-Turn this screenshot in at the Populi assignment labelled "Getting Started".
+Turn this screenshot(s) in at the Populi assignment labelled "Getting Started".
