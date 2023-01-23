@@ -35,7 +35,7 @@ Over time, your GitHub account will grow into a public portfolio of your coding 
 * Download the Slack application (https://slack.com/downloads)
 * Use your Code Immersives email to join our Slack group https://join.slack.com/t/slack-2w22859/shared_invite/zt-1nrv8frxf-Mibv9g0lcpCeUq0Yc0o~XA
 * Add a profile picture to your Slack account
-* Send a direct message to the instructor and TAs (a single group message)
+* Post a message in #general
 
 ## Step 5: Turn in this assignment on Populi
 
