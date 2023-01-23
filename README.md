@@ -43,5 +43,6 @@ To turn in this assignment, take a single screenshot that shows all of the follo
 * VSCode running
 * Slack running
 * A webpage displaying your GitHub account
+* Running Terminal(Mac)/Cmder (Windows)
 
 Turn this screenshot in at the Populi assignment labelled "Getting Started".
